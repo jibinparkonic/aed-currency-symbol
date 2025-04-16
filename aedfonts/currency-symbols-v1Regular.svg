@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20201107 at Fri Mar 28 11:31:43 2025
+ By 
+ 
+</metadata>
+<defs>
+<font id="currency-symbols-v1Regular" horiz-adv-x="0" >
+  <font-face 
+    font-family="currency-symbols-v1"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="0 0 1524.5 1480"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0024-E001"
+  />
+<missing-glyph horiz-adv-x="913" 
+d="M0 0h913v1480h-913v-1480zM106 1374h702v-1268h-702v1268z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="913" 
+d="M0 0h913v1480h-913v-1480zM106 1374h702v-1268h-702v1268z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="913" 
+d="M0 0h913v1480h-913v-1480zM106 1374h702v-1268h-702v1268z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="682" 
+ />
+    <glyph glyph-name="dollar" unicode="$" 
+ />
+    <glyph glyph-name="A" unicode="A" 
+ />
+    <glyph glyph-name="B" unicode="B" 
+ />
+    <glyph glyph-name="C" unicode="C" 
+ />
+    <glyph glyph-name="D" unicode="D" 
+ />
+    <glyph glyph-name="[namenotfound]" unicode="&#xe000;" horiz-adv-x="1224" 
+d="M750 149l424 91q-7 -75 -38 -144l-425 -90q7 73 39 143zM1136 367l-425 -91v271l-132 -28v-150q0 -21 -11 -37l-69 -102q-27 -39 -74 -50l-375 -79q8 76 38 143l359 76v171l-335 -72q7 72 39 144l296 63v525q55 69 132 111v-608l132 28v403q57 69 132 111v-486l331 70
+q-8 -76 -38 -143l-293 -62v-135l331 70q-7 -76 -38 -143z" />
+    <glyph glyph-name="[namenotfound]" unicode="&#xe001;" horiz-adv-x="1613" 
+d="M1415 578q40 0 68.5 -27.5t37.5 -68.5q3 -15 3 -64l-5 5t-5.5 5t-5 4.5t-5.5 4.5t-5.5 4t-6 4t-6.5 2.5t-7.5 2.5t-8 2t-9.5 1h-142q-13 -54 -20 -69q-85 -244 -349 -328q-102 -33 -250 -38h-482q1 1 22 27q37 69 41 177v231h-82q-25 1 -49 17t-36 37q-14 24 -17 44
+t-3 64q15 -17 29 -24q17 -11 31 -11l127 -2v124h-82q-56 7 -87 59q-22 37 -17 102q17 -17 26 -23q14 -7 17 -8q12 -5 24 -5l119 1q-1 37 -0.5 111t0.5 110q-4 149 -63 214h492l46 -3q148 -10 273 -67.5t203 -169.5q62 -87 86 -196h71q44 0 63 -7q31 -11 49 -41
+q12 -16 17.5 -34.5t6.5 -32.5t0 -45q-14 16 -32 26q-17 10 -37 10h-118q2 -88 -1 -125h79zM1106 827q-1 9 -2 11q-30 182 -146 275q-39 32 -85 51.5t-102.5 26.5t-95.5 9t-109.5 0.5t-98.5 -0.5v-373h639zM467 578h651q3 63 0 125l-651 -1v-124zM467 82q70 3 127.5 0.5
+t126 4t122.5 24.5q158 56 223 208q23 53 39 134h-638v-371z" />
+  </font>
+</defs></svg>

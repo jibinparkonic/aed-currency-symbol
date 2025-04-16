@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "currency-symbols-v1";
+  src: url("aedfonts/currency-symbols-v1Regular.eot");
+  src: url("aedfonts/currency-symbols-v1Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("aedfonts/currency-symbols-v1Regular.woff2") format("woff2"),
+    url("aedfonts/currency-symbols-v1Regular.woff") format("woff"),
+    url("aedfonts/currency-symbols-v1Regular.ttf") format("truetype"),
+    url("aedfonts/currency-symbols-v1Regular.svg#currency-symbols-v1Regular")
+      format("svg");
+  font: normal normal 1em/1 "currency-symbols-v1";
+  font-display: swap;
+}
+
+.aed-icon {
+  font-family: "currency-symbols-v1";
+  font: normal normal normal 1em/1;
+  speak: none;
+  text-transform: none;
+}
+
+.aed-icon::before {
+  content: "\e001";
+}
